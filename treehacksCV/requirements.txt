@@ -1,0 +1,9 @@
+Flask==0.12
+gunicorn==19.6.0
+google-api-python-client==1.6.2
+google
+google.cloud
+numpy 
+opencv-python 
+matplotlib 
+python-resize-image

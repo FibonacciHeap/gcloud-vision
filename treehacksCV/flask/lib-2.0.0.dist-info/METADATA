@@ -1,0 +1,16 @@
+Metadata-Version: 2.0
+Name: lib
+Version: 2.0.0
+Summary: StdLib: Standard Library for Microservices Python Bindings
+Home-page: https://github.com/stdlib/lib-python
+Author: Keith Horwood
+Author-email: keithwhor@gmail.com
+License: MIT
+Keywords: stdlib,microservice,serverless
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+
+UNKNOWN
+
+
